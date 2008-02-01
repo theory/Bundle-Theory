@@ -1,0 +1,24 @@
+---
+name: Bundle-Theory
+version: 0.01
+author:
+  - 'David E. Wheeler <david@kineticode.com>'
+abstract: A bundle to install all Theory's favorite modules
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+configure_requires:
+  Module::Build: 0.2701
+build_requires:
+  Module::Build: 0.2701
+  Test::More: 0.17
+recommends:
+  Test::Pod: 1.20
+provides:
+  Bundle::Theory:
+    file: lib/Bundle/Theory.pm
+    version: 0.01
+generated_by: Module::Build version 0.280801
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2
