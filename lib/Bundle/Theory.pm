@@ -105,6 +105,10 @@ Cache::Cache
 
 Cache::Mmap
 
+CHI
+
+Cache::Memcached
+
 Digest::MD5
 
 Digest::SHA1
