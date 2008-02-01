@@ -33,17 +33,25 @@ essentials whenever I he builds a new system.
 
 =head1 Contents
 
-Test::Pod
-
 Term::ReadLine::Perl
 
-CPAN::Reporter
+Cwd
 
 Bundle::CPAN
 
 Bundle::libnet
 
 Bundle::LWP
+
+Module::Build
+
+ExtUtils::MakeMaker
+
+CPANPLUS
+
+CPAN::Reporter
+
+Test::Reporter
 
 YAML
 
@@ -109,29 +117,37 @@ MIME::Base64
 
 MIME::Tools
 
-Email::Address
+MIME::Types
+
+MIME::Lite
+
+Bundle::Email
+
+Email::Valid
+
+Module::Starter
 
 Image::Info
 
 Params::Validate
 
-HTML::Mason
-
 DB_File
-
-Test::Harness
-
-Test::Simple
-
-Test::MockModule
-
-Test::File::Contents
 
 XML::Parser
 
 XML::Simple
 
+XML::Generator
+
+XML::LibXML
+
+XML::Writer
+
+XML::SAX
+
 IO::Stringy
+
+File::Path
 
 File::Temp
 
@@ -139,11 +155,17 @@ Text::LevenshteinXS
 
 Locale::Maketext
 
-Test::Class
-
 DateTime
 
 DateTime::TimeZone
+
+DateTime::Incomplete
+
+DateTime::Format::Strptime
+
+Encode
+
+Event
 
 Term::ReadPassword
 
@@ -152,6 +174,130 @@ List::Util
 List::MoreUtils
 
 URI::Escape
+
+Iterator
+
+Iterator::Util
+
+aliased
+
+Array::AsHash
+
+Class::BuildMethods
+
+Class::Trait
+
+Data::Dumper::Names
+
+Data::Dumper
+
+Perl::Critic
+
+HOP::Stream
+
+HOP::Lexer
+
+HOP::Parser
+
+TAP::Parser
+
+Parse::RecDescent
+
+Pod::Simple
+
+TAP::Harness
+
+Test::Harness
+
+Test::More
+
+Test::MockModule
+
+Test::Class
+
+Test::Pod
+
+Test::Coverage
+
+Test::JSON
+
+Test::XML
+
+Test::Output
+
+Test::Deep
+
+Test::Differences
+
+Test::Differences
+
+Test::Exception
+
+Test::File
+
+Test::File::Contents
+
+Test::NoWarnings
+
+Test::Data::Array
+
+Test::Number::Delta
+
+Test::Trap
+
+Test::Perl::Critic
+
+Exporter::Tidy
+
+File::Find::Rule
+
+JSON::Syck
+
+Lingua::EN::Inflect
+
+Regexp::Common
+
+App::Cmd
+
+version
+
+Net::SSLeay
+
+Net::LDAP
+
+CGI
+
+HTML::Mason
+
+HTML::Template
+
+Template
+
+Imager
+
+Image::Info
+
+IO::All
+
+IO::Socket::SSL
+
+Net::Daemon
+
+Net::FTP::Server
+
+Text::Iconv
+
+CPAN::Mini
+
+Data::GUID
+
+Class::MOP
+
+Return::Value
+
+Sub::Exporter
+
+Moose
 
 =head1 Author
 
