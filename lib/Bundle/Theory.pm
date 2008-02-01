@@ -2,7 +2,7 @@ package Bundle::Theory;
 
 # $Id: Meta.pm 3331 2008-01-22 19:24:49Z theory $
 
-our $VERSION = '0.01';
+our $VERSION = '1.00';
 
 1;
 __END__
