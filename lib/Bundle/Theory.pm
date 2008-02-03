@@ -45,6 +45,8 @@ Bundle::LWP
 
 Module::Build
 
+Module::Install
+
 ExtUtils::MakeMaker
 
 CPANPLUS
