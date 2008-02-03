@@ -1,6 +1,9 @@
 Revision history for Perl extension Bundle::Theory.
 
 1.01  
+      - Added `t/basic.t`, which just makes sure the bundle module loads, so
+        that there is at least one test for the distribution. This will
+        eliminate those "UNKNOWN" test retults from cpan-testers.
       - Added Module::Install.
       - Added CPAN::SQLite.
 
