@@ -2,6 +2,7 @@ Revision history for Perl extension Bundle::Theory.
 
 1.01  
       - Added Module::Install.
+      - Added CPAN::SQLite.
 
 1.00  2008-02-03 01:59:58
       - Initial public release.
