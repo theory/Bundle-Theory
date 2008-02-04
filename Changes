@@ -4,6 +4,7 @@ Revision history for Perl extension Bundle::Theory.
       - Added `t/basic.t`, which just makes sure the bundle module loads, so
         that there is at least one test for the distribution. This will
         eliminate those "UNKNOWN" test retults from cpan-testers.
+      - Changed the "CONTENTS" header to uppercase to make `CPAN.pm` happy.
       - Added Module::Install.
       - Added CPAN::SQLite.
 
