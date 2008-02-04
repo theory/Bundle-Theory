@@ -31,7 +31,7 @@ Bundle::Theory - A bundle to install all Theory's favorite modules
 This bundle contains all of Theory's most-used CPAN modules. These are
 essentials whenever I he builds a new system.
 
-=head1 Contents
+=head1 CONTENTS
 
 Term::ReadLine::Perl
 
