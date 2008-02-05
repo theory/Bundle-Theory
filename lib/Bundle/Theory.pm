@@ -225,7 +225,7 @@ Test::Class
 
 Test::Pod
 
-Test::Coverage
+Test::Pod::Coverage
 
 Test::JSON
 
@@ -291,7 +291,7 @@ IO::Socket::SSL
 
 Net::Daemon
 
-Net::FTP::Server
+Net::FTPServer
 
 Text::Iconv
 
