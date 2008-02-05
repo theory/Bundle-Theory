@@ -1,6 +1,7 @@
 Revision history for Perl extension Bundle::Theory.
 
 1.02
+      - Added `t/basic.t` so that it would actually be distributed. Duh.
 
 1.01  2008-02-04 22:08:44
       - Added `t/basic.t`, which just makes sure the bundle module loads, so
