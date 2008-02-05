@@ -1,6 +1,6 @@
 package Bundle::Theory;
 
-# $Id: Meta.pm 3331 2008-01-22 19:24:49Z theory $
+# $Id$
 
 our $VERSION = '1.03';
 
