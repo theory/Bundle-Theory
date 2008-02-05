@@ -287,8 +287,6 @@ Image::Info
 
 IO::All
 
-IO::Socket::SSL
-
 Net::Daemon
 
 Net::FTPServer
