@@ -57,6 +57,8 @@ Test::Reporter
 
 CPAN::SQLite
 
+Parse::RecDescent
+
 YAML
 
 DBI
@@ -303,9 +305,9 @@ Return::Value
 
 Sub::Exporter
 
-Want
-
 Moose
+
+Want
 
 =head1 Author
 
