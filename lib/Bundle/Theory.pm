@@ -201,6 +201,8 @@ Data::Dumper::Names
 
 Data::Dumper
 
+PPI
+
 Perl::Critic
 
 HOP::Stream
@@ -312,6 +314,18 @@ Sub::Exporter
 Moose
 
 Want
+
+App::Ack
+
+Modul::CoreList
+
+Perl::Tidy
+
+Scalar::Util
+
+Text::Markdown
+
+Text::MultiMarkdown
 
 =head1 Author
 
