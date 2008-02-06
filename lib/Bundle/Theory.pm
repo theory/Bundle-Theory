@@ -261,6 +261,10 @@ Exporter::Tidy
 
 File::Find::Rule
 
+JSON::XS
+
+JSON
+
 JSON::Syck
 
 Lingua::EN::Inflect
