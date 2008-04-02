@@ -14,13 +14,13 @@ other than all uppercase.
 
 =head1 NAME
 
-Bundle::Theory - A bundle to install all Theory's favorite modules
+Bundle::Theory - A bundle to install all of Theory's favorite modules
 
 =end comment
 
 =head1 Name
 
-Bundle::Theory - A bundle to install all Theory's favorite modules
+Bundle::Theory - A bundle to install all of Theory's favorite modules
 
 =head1 Synopsis
 
