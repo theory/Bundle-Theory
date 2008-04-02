@@ -1,5 +1,7 @@
 Revision history for Perl extension Bundle::Theory.
 
+1.04
+
 1.03  2008-04-02T19:26:52
       - Changed from nonexistent Test::Coverage to the correct name,
         Test::Pod::Coverage.
