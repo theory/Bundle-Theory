@@ -123,6 +123,8 @@ URI
 
 HTML::Parser
 
+HTML::HeadParser
+
 MIME::Base64
 
 MIME::Tools
