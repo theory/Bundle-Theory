@@ -93,6 +93,8 @@ Module::Build::JSAN
 
 SVN::Notify
 
+SVN::Notify::Filter::Markdown
+
 Text::Diff::HTML
 
 Text::WordDiff
