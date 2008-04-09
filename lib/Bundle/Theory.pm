@@ -331,6 +331,8 @@ Text::Markdown
 
 Text::MultiMarkdown
 
+Text::Trac
+
 =head1 Author
 
 =begin comment
