@@ -1,6 +1,9 @@
 Revision history for Perl extension Bundle::Theory.
 
 1.05
+      - Added HTML::Template::Expr.
+      - Added Bundle::Theory::Apache.
+      - Added Bundle::Theory::Apache2.
 
 1.04  2008-04-09T22:17:16
       - Added SVN::Notify::Filter::Markdown.

@@ -1,2 +1,4 @@
-use Test::More tests => 1;
+use Test::More tests => 3;
 use_ok 'Bundle::Theory';
+use_ok 'Bundle::Theory::Apache';
+use_ok 'Bundle::Theory::Apache2';

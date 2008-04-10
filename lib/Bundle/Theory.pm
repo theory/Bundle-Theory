@@ -29,7 +29,7 @@ Bundle::Theory - A bundle to install all of Theory's favorite modules
 =head1 Description
 
 This bundle contains all of Theory's most-used CPAN modules. These are
-essentials whenever I he builds a new system.
+essentials whenever he builds a new system.
 
 =head1 CONTENTS
 
@@ -290,6 +290,8 @@ CGI
 HTML::Mason
 
 HTML::Template
+
+HTML::Template::Expr
 
 Template
 
