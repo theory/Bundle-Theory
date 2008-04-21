@@ -2,7 +2,7 @@ package Bundle::Theory::Apache2;
 
 # $Id: Theory.pm 3635 2008-04-09 22:19:51Z david $
 
-our $VERSION = '1.05';
+our $VERSION = '1.06';
 
 1;
 __END__
@@ -23,6 +23,8 @@ These are essentials whenever he builds a new system.
 =head1 CONTENTS
 
 Apache::Test
+
+ExtUtils::XSBuilder
 
 Apache2::Request
 
