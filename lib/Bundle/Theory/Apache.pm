@@ -2,7 +2,7 @@ package Bundle::Theory::Apache;
 
 # $Id: Theory.pm 3635 2008-04-09 22:19:51Z david $
 
-our $VERSION = '1.06';
+our $VERSION = '1.07';
 
 1;
 __END__

@@ -2,7 +2,7 @@ package Bundle::Theory;
 
 # $Id$
 
-our $VERSION = '1.06';
+our $VERSION = '1.07';
 
 1;
 __END__
