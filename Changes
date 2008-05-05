@@ -1,6 +1,6 @@
 Revision history for Perl extension Bundle::Theory.
 
-1.06
+1.06  2008-05-05T17:51:28
       - Added ExtUtils::XSBuilder to Bundle::Theory::Apache2.
 
 1.05  2008-04-10T02:29:49
