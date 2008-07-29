@@ -323,7 +323,7 @@ Want
 
 App::Ack
 
-Modul::CoreList
+Module::CoreList
 
 Perl::Tidy
 
