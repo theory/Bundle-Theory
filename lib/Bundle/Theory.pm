@@ -311,8 +311,6 @@ Text::Iconv
 
 CPAN::Mini
 
-Data::GUID
-
 Class::MOP
 
 Return::Value
