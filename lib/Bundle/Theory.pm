@@ -51,6 +51,8 @@ ExtUtils::MakeMaker
 
 CPANPLUS
 
+CPANPLUS::Dist::Build
+
 CPAN::Reporter
 
 Test::Reporter
@@ -319,6 +321,14 @@ Sub::Exporter
 
 Moose
 
+MooseX::Declare
+
+Mouse
+
+Class::C3
+
+Attribute::Handlers
+
 Want
 
 App::Ack
@@ -334,6 +344,12 @@ Text::Markdown
 Text::MultiMarkdown
 
 Text::Trac
+
+KinoSearch
+
+parent
+
+ExtUtils::CBuilder
 
 =head1 Author
 

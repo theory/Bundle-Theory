@@ -9,6 +9,14 @@ Revision history for Perl extension Bundle::Theory.
         + Template::Declare::Bricolage
         + Regexp::Grammars
         + YAML::Syck
+        + CPANPLUS::Dist::Build
+        + MooseX::Declare
+        + Mouse
+        + Class::C3
+        + Attribute::Handlers
+        + KinoSearch
+        + parent
+        + ExtUtils::CBuilder
       - Removed:
         + YAML
         + Time::Piece::ISO
