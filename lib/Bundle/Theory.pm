@@ -59,7 +59,9 @@ CPAN::SQLite
 
 Parse::RecDescent
 
-YAML
+Regexp::Grammars
+
+YAML::Syck
 
 DBI
 
@@ -87,8 +89,6 @@ Lingua::Strfname
 
 Params::CallbackRequest
 
-MasonX::Interp::WithCallbacks
-
 Module::Build::JSAN
 
 SVN::Notify
@@ -98,10 +98,6 @@ SVN::Notify::Filter::Markdown
 Text::Diff::HTML
 
 Text::WordDiff
-
-Time::Piece::ISO
-
-Widget::Meta
 
 Text::Password::Pronounceable
 
@@ -140,8 +136,6 @@ Bundle::Email
 Email::Valid
 
 Module::Starter
-
-Image::Info
 
 Params::Validate
 
@@ -217,8 +211,6 @@ HOP::Parser
 
 TAP::Parser
 
-Parse::RecDescent
-
 Pod::Simple
 
 TAP::Harness
@@ -235,6 +227,8 @@ Test::Pod
 
 Test::Pod::Coverage
 
+Test::Spelling
+
 Test::JSON
 
 Test::XML
@@ -242,8 +236,6 @@ Test::XML
 Test::Output
 
 Test::Deep
-
-Test::Differences
 
 Test::Differences
 
@@ -262,6 +254,8 @@ Test::Number::Delta
 Test::Trap
 
 Test::Perl::Critic
+
+Test::XPath
 
 Exporter::Tidy
 
@@ -289,9 +283,15 @@ CGI
 
 HTML::Mason
 
+MasonX::Interp::WithCallbacks
+
 HTML::Template
 
 HTML::Template::Expr
+
+Template::Declare
+
+Template::Declare::Bricolage
 
 Template
 
