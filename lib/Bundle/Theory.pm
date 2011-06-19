@@ -7,17 +7,6 @@ our $VERSION = '1.08';
 1;
 __END__
 
-=begin comment
-
-Fake-out Module::Build. Delete if it ever changes to support =head1 headers
-other than all uppercase.
-
-=head1 NAME
-
-Bundle::Theory - A bundle to install all of Theory's favorite modules
-
-=end comment
-
 =head1 Name
 
 Bundle::Theory - A bundle to install all of Theory's favorite modules
@@ -351,16 +340,7 @@ ExtUtils::CBuilder
 
 =head1 Author
 
-=begin comment
-
-Fake-out Module::Build. Delete if it ever changes to support =head1 headers
-other than all uppercase.
-
-=head1 AUTHOR
-
-=end comment
-
-David E. Wheeler <david@kineticode.com>
+David E. Wheeler <david@justatheory.com>
 
 =head1 Copyright and License
 
