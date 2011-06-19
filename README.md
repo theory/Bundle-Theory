@@ -1,4 +1,4 @@
-Bundle/Theory version 1.08
+Bundle/Theory version 1.09
 ==========================
 
 This bundle installs all of the CPAN modules that Theory considers essential

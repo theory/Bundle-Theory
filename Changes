@@ -1,5 +1,7 @@
 Revision history for Perl extension Bundle::Theory.
 
+1.09
+
 1.08  2011-06-19T04:44:31
       - Moved to [GitHub](https://github.com/theory/bundle-theory).
       - Modules now listed in alphabetical order.
