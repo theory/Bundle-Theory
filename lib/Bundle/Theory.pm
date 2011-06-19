@@ -20,193 +20,211 @@ essentials whenever he builds a new system.
 
 =head1 CONTENTS
 
-Term::ReadLine::Perl
+aliased
 
-Cwd
+App::Ack
 
-Bundle::CPAN
-
-Bundle::libnet
-
-Bundle::LWP
-
-Module::Build
-
-Module::Install
-
-ExtUtils::MakeMaker
-
-Test::Reporter
-
-Test::Reporter::Transport::Metabase
-
-CPAN::SQLite
-
-Parse::RecDescent
-
-DBI
-
-DBIx::Connector
-
-DBD::SQLite
-
-DBD::Pg
+App::Cmd
 
 App::Info
 
-Class::Delegator
+Array::AsHash
 
-Data::Types
+Attribute::Handlers
 
-Class::Meta
+Bundle::CPAN
 
-Class::Meta::Express
+Bundle::Email
 
-Encode::ZapCP1252
+Bundle::LWP
 
-Exception::Class::DBI
+Bundle::libnet
 
-FSA::Rules
+CGI
 
-Lingua::Strfname
+CHI
 
-Module::Build::DB
+CPAN::Mini
 
-Plack
-
-Plack::Middleware::MethodOverride
-
-Plack::Session::Store::File
-
-Plack::Middleware::Session
-
-namespace::autoclean
-
-Router::Resource
-
-SemVer
-
-Try::Tiny
-
-Text::Diff::HTML
-
-Text::WordDiff
-
-Text::Password::Pronounceable
-
-Time::HiRes
+CPAN::SQLite
 
 Cache::Cache
 
 Cache::Mmap
 
-CHI
+Class::BuildMethods
+
+Class::C3
+
+Class::Delegator
+
+Class::MOP
+
+Class::Meta
+
+Class::Meta::Express
+
+Class::Trait
+
+Cwd
+
+DBD::Pg
+
+DBD::SQLite
+
+DBI
+
+DBIx::Connector
+
+DB_File
+
+Data::Dump
+
+Data::Types
+
+DateTime
+
+DateTime::Format::Strptime
+
+DateTime::Incomplete
+
+DateTime::TimeZone
 
 Digest::MD5
 
 Digest::SHA1
 
-URI
-
-HTML::Parser
-
-HTML::HeadParser
-
-MIME::Base64
-
-MIME::Tools
-
-MIME::Types
-
-MIME::Lite
-
-Bundle::Email
-
 Email::Valid
 
-Params::Validate
+Encode
 
-DB_File
+Encode::ZapCP1252
 
-XML::Parser
+Event
 
-XML::Simple
+Exception::Class::DBI
 
-XML::Builder
+ExtUtils::CBuilder
 
-XML::LibXML
+ExtUtils::MakeMaker
 
-XML::Writer
+FSA::Rules
 
-IO::Stringy
+File::Find::Rule
 
 File::Path
 
 File::Temp
 
-Text::LevenshteinXS
+HTML::HeadParser
 
-Locale::Maketext
+HTML::Mason
 
-DateTime
+HTML::Parser
 
-DateTime::TimeZone
+IO::All
 
-DateTime::Incomplete
+IO::Stringy
 
-DateTime::Format::Strptime
+Image::Info
 
-Encode
-
-Event
-
-Term::ReadPassword
-
-List::Util
-
-List::MoreUtils
-
-URI::Escape
+Imager
 
 Iterator
 
 Iterator::Util
 
-aliased
+JSON
 
-Array::AsHash
+JSON::XS
 
-Class::BuildMethods
+Lingua::EN::Inflect
 
-Class::Trait
+Lingua::Strfname
 
-Data::Dump
+List::MoreUtils
+
+List::Util
+
+Locale::Maketext
+
+Lucy
+
+MIME::Base64
+
+MIME::Lite
+
+MIME::Tools
+
+MIME::Types
+
+Module::Build
+
+Module::Build::DB
+
+Module::CoreList
+
+Module::Install
+
+Moose
+
+MooseX::Declare
+
+Mouse
+
+namespace::autoclean
+
+Net::Daemon
+
+Net::LDAP
+
+Net::SSLeay
+
+Params::Validate
+
+parent
+
+Parse::RecDescent
 
 Perl::Critic
 
-TAP::Parser::SourceHandler::pgTAP
+Perl::Tidy
+
+Plack
+
+Plack::Middleware::MethodOverride
+
+Plack::Middleware::Session
+
+Plack::Session::Store::File
 
 Pod::Simple
 
-Test::Harness
+Regexp::Common
 
-Test::More
+Return::Value
 
-Test::MockModule
+Router::Resource
+
+Scalar::Util
+
+SemVer
+
+Sub::Exporter
+
+TAP::Parser::SourceHandler::pgTAP
+
+Template::Declare
+
+Template::Declare::Bricolage
+
+Term::ReadLine::Perl
+
+Term::ReadPassword
 
 Test::Class
 
-Test::Pod
-
-Test::Pod::Coverage
-
-Test::Spelling
-
-Test::JSON
-
-Test::XML
-
-Test::Output
+Test::Data::Array
 
 Test::Deep
 
@@ -218,93 +236,75 @@ Test::File
 
 Test::File::Contents
 
-Test::NoWarnings
+Test::Harness
 
-Test::Data::Array
+Test::JSON
+
+Test::MockModule
+
+Test::More
+
+Test::NoWarnings
 
 Test::Number::Delta
 
-Test::Trap
+Test::Output
 
 Test::Perl::Critic
 
+Test::Pod
+
+Test::Pod::Coverage
+
+Test::Reporter
+
+Test::Reporter::Transport::Metabase
+
+Test::Spelling
+
+Test::Trap
+
+Test::XML
+
 Test::XPath
 
-File::Find::Rule
+Text::Diff::HTML
 
-JSON::XS
-
-JSON
-
-Lingua::EN::Inflect
-
-Regexp::Common
-
-App::Cmd
-
-version
-
-Net::SSLeay
-
-Net::LDAP
-
-CGI
-
-HTML::Mason
-
-Template::Declare
-
-Template::Declare::Bricolage
-
-Imager
-
-Image::Info
-
-IO::All
-
-Net::Daemon
-
-CPAN::Mini
-
-Class::MOP
-
-Return::Value
-
-Sub::Exporter
-
-Moose
-
-MooseX::Declare
-
-Mouse
-
-Class::C3
-
-Attribute::Handlers
-
-Want
-
-App::Ack
-
-Module::CoreList
-
-Perl::Tidy
-
-Scalar::Util
+Text::LevenshteinXS
 
 Text::Markdown
 
 Text::MultiMarkdown
 
+Text::Password::Pronounceable
+
 Text::Trac
 
-Lucy
+Text::WordDiff
 
-parent
+Time::HiRes
 
-ExtUtils::CBuilder
+Try::Tiny
+
+URI
+
+URI::Escape
+
+version
 
 WWW::PGXN
+
+Want
+
+XML::Builder
+
+XML::LibXML
+
+XML::Parser
+
+XML::Simple
+
+XML::Writer
 
 =head1 Author
 
