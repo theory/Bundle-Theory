@@ -1,7 +1,5 @@
 package Bundle::Theory;
 
-# $Id$
-
 our $VERSION = '1.08';
 
 1;
