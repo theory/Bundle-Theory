@@ -1,6 +1,56 @@
 Revision history for Perl extension Bundle::Theory.
 
 1.08
+      - Moved to [GitHub](https://github.com/theory/bundle-theory).
+      - Added:
+        + Test::Reporter::Transport::Metabase
+        + DBIx::Connector
+        + Module::Build::DB
+        + Plack
+        + Plack::Middleware::MethodOverride
+        + Plack::Session::Store::File
+        + Plack::Middleware::Session
+        + namespace::autoclean
+        + Router::Resource
+        + SemVer
+        + Try::Tiny
+        + XML::Builder
+        + Data::Dump
+        + TAP::Parser::SourceHandler::pgTAP
+        + Lucy
+        + WWW::PGXN
+      - Removed:
+        + CPANPLUS::Dist::Build
+        + CPANPLUS
+        + CPAN::Reporter
+        + Regexp::Grammars
+        + YAML::Syck
+        + Params::CallbackRequest
+        + Module::Build::JSAN
+        + SVN::Notify
+        + SVN::Notify::Filter::Markdown
+        + XMLRPC::Lite
+        + Cache::Memcached
+        + Module::Starter
+        + XML::Generator
+        + XML::SAX
+        + Data::Dumper::Names
+        + Data::Dumper
+        + PPI
+        + HOP::Stream
+        + HOP::Lexer
+        + HOP::Parer
+        + TAP::Parser
+        + TAP::Harness
+        + Exporter::Tidy
+        + JSON::Syck
+        + MasonX::Interp::WithCallbacks
+        + HTML::Template
+        + HTML::Template::Expr
+        + Template
+        + Net::FTPServer
+        + Text::Iconv
+        + KinoSearch
 
 1.07  2009-09-22T22:20:10
       - Corrected Spelling of Module::CoreList.

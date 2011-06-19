@@ -36,23 +36,17 @@ Module::Install
 
 ExtUtils::MakeMaker
 
-CPANPLUS
-
-CPANPLUS::Dist::Build
-
-CPAN::Reporter
-
 Test::Reporter
+
+Test::Reporter::Transport::Metabase
 
 CPAN::SQLite
 
 Parse::RecDescent
 
-Regexp::Grammars
-
-YAML::Syck
-
 DBI
+
+DBIx::Connector
 
 DBD::SQLite
 
@@ -76,21 +70,29 @@ FSA::Rules
 
 Lingua::Strfname
 
-Params::CallbackRequest
+Module::Build::DB
 
-Module::Build::JSAN
+Plack
 
-SVN::Notify
+Plack::Middleware::MethodOverride
 
-SVN::Notify::Filter::Markdown
+Plack::Session::Store::File
+
+Plack::Middleware::Session
+
+namespace::autoclean
+
+Router::Resource
+
+SemVer
+
+Try::Tiny
 
 Text::Diff::HTML
 
 Text::WordDiff
 
 Text::Password::Pronounceable
-
-XMLRPC::Lite
 
 Time::HiRes
 
@@ -99,8 +101,6 @@ Cache::Cache
 Cache::Mmap
 
 CHI
-
-Cache::Memcached
 
 Digest::MD5
 
@@ -124,8 +124,6 @@ Bundle::Email
 
 Email::Valid
 
-Module::Starter
-
 Params::Validate
 
 DB_File
@@ -134,13 +132,11 @@ XML::Parser
 
 XML::Simple
 
-XML::Generator
+XML::Builder
 
 XML::LibXML
 
 XML::Writer
-
-XML::SAX
 
 IO::Stringy
 
@@ -184,25 +180,13 @@ Class::BuildMethods
 
 Class::Trait
 
-Data::Dumper::Names
-
-Data::Dumper
-
-PPI
+Data::Dump
 
 Perl::Critic
 
-HOP::Stream
-
-HOP::Lexer
-
-HOP::Parser
-
-TAP::Parser
+TAP::Parser::SourceHandler::pgTAP
 
 Pod::Simple
-
-TAP::Harness
 
 Test::Harness
 
@@ -246,15 +230,11 @@ Test::Perl::Critic
 
 Test::XPath
 
-Exporter::Tidy
-
 File::Find::Rule
 
 JSON::XS
 
 JSON
-
-JSON::Syck
 
 Lingua::EN::Inflect
 
@@ -272,17 +252,9 @@ CGI
 
 HTML::Mason
 
-MasonX::Interp::WithCallbacks
-
-HTML::Template
-
-HTML::Template::Expr
-
 Template::Declare
 
 Template::Declare::Bricolage
-
-Template
 
 Imager
 
@@ -291,10 +263,6 @@ Image::Info
 IO::All
 
 Net::Daemon
-
-Net::FTPServer
-
-Text::Iconv
 
 CPAN::Mini
 
@@ -330,11 +298,13 @@ Text::MultiMarkdown
 
 Text::Trac
 
-KinoSearch
+Lucy
 
 parent
 
 ExtUtils::CBuilder
+
+WWW::PGXN
 
 =head1 Author
 
